@@ -6,6 +6,7 @@ public class Gipotenuza {
     int katetA = 6;
     int katetB = 4;
     double gipotenuza = Math.sqrt(katetA*katetA+katetB*katetB);
-        System.out.println(gipotenuza);
+        System.out.println("first katet = "+ katetA+"; second katet = "+katetB+";");
+        System.out.println("gipotenuza = "+ gipotenuza+";");
     }
 }
