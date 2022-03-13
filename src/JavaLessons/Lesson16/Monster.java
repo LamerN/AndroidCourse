@@ -1,4 +1,4 @@
-package Lesson16;
+package JavaLessons.Lesson16;
 
 public class Monster {
     int eyeNum;
