@@ -1,4 +1,4 @@
-package JavaLessons.Lesson20.MyArrayList.Array;
+package JavaLessons.Lesson20.Array;
 
 public class MyArrayList {
     private String[] array = new String[10];

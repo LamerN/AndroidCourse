@@ -1,6 +1,6 @@
-package JavaLessons.Lesson20.MyArrayList.Main;
+package JavaLessons.Lesson20.Main;
 
-import JavaLessons.Lesson20.MyArrayList.Array.MyArrayList;
+import JavaLessons.Lesson20.Array.MyArrayList;
 
 public class Main {
     public static void main(String[] args) {
