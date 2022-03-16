@@ -20,6 +20,12 @@ public class Box {
         this.length = box1.length + box2.length;
     }
 
+    public void showInfo(){
+        System.out.println("Ширина: " + width);
+        System.out.println("Высота: " + height);
+        System.out.println("Длина: " + length);
+    }
+
     public int getWidth() {
         return width;
     }
